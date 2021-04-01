@@ -1,0 +1,27 @@
+body {
+  background-image: url("img/back.jpg");
+  background-repeat: no-repeat;
+ background-size: 100%;
+ background-origin: border-box;
+
+}
+
+marquee {
+  background-color: yellow;
+  font-style: italic;
+  color: blue;
+  height: fit-content;
+}
+.special{
+  border-radius: 10px;
+  margin: 5px;
+}
+div{
+  color: blue;
+}
+fieldset{
+  margin: 8px;
+}
+#free{
+  color: black;
+}
